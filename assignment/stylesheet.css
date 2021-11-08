@@ -1,0 +1,20 @@
+.something {
+    background-image: url("record.png");
+    background-size: 10%;
+    background-repeat: repeat;
+    background-color: hotpink;
+    margin: 0;
+}
+
+.somethingEntirelyDifferent {
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+.somethingElse {
+    color: hotpink;
+    text-align: right;
+    background-color: lime;
+    padding: 1em;
+}
