@@ -1,4 +1,4 @@
-.something {
+body {
     background-image: url("record.png");
     background-size: 10%;
     background-repeat: repeat;
@@ -15,6 +15,7 @@
 .somethingElse {
     color: hotpink;
     text-align: right;
+    font-weight: bolder;
     background-color: lime;
     padding: 1em;
 }
